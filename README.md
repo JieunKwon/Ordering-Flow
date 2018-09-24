@@ -1,11 +1,12 @@
 # Ordering-Flow
-@ March 2018
 # HTML5, CSS, JavaScript
-# the main focus is to verify the field entered from user 
+
+@ March 2018
 
 Program Description
 ---------------------
-It was made to show the simple online ordering system
+It was made to show the simple online ordering system.
+The main focus is to verify the field entered from user
 
 
 Program Flow
