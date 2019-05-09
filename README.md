@@ -20,7 +20,8 @@ Program Flow
 
  test ID & PW 
  ---------------
- test
- 1234 
+ id: test
+ 
+ pw: 1234 
 
 
